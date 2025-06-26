@@ -1,2 +1,13 @@
+# Ignore system files
+.DS_Store
+.Trash/
+*.class
+
+# Ignore user-specific config
+.config/
+.ssh/
+.idlerc/
+.zsh_sessions/
+.zsh_history
 .DS_Store
 .DS_Store
